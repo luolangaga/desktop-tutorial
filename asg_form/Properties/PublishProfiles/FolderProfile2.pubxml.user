@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2023-11-04T03:29:42.3802336Z;False|2023-11-04T11:25:04.8142590+08:00;True|2023-10-28T23:00:13.4858188+08:00;True|2023-10-28T22:47:44.2483862+08:00;True|2023-10-22T13:50:01.5508868+08:00;True|2023-10-22T13:47:08.7711227+08:00;True|2023-10-22T13:11:03.2217343+08:00;False|2023-10-22T13:09:56.1436152+08:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>D:\asg_form_houduan-main\asg_form\bin\Release\net7.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
